@@ -1,0 +1,9 @@
+Analyzing cut site: A|GAGTCC
+Total cut sites found: 73
+Cut site pairs 80-120 kbp apart: 183
+First 5 pairs: 
+1. 4448 - 86999
+2. 39930 - 144253
+3. 39930 - 145703
+4. 39930 - 147931
+5. 48233 - 144253
